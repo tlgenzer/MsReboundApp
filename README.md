@@ -1,7 +1,7 @@
 English
 # MsRebound Map App
 [![Releases](https://img.shields.io/badge/android-6.0%2B-brightgreen.svg)](https://play.google.com/store/apps/details?id=com.travisgenzer.msrebound)
-[![Releases](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/tlgenzer/MsReboundApp/releases/latest)
+[![Releases](https://img.shields.io/badge/release-v1.0.1-blue)](https://github.com/tlgenzer/MsReboundApp/releases/latest)
 
 An Android app to view the MsRebound Minecraft Server Live Map
 
