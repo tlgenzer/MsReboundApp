@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E2C745"
+        tools:context=".splashactivity">
+
+    <ImageView
+            android:layout_width="350dp"
+            android:src="@drawable/msrebound1024"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/MsRebound512"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="Built by Tlgenzer"
+            android:fontFamily="serif-monospace"
+            android:textSize="20sp"/>
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:text="Play.MsRebound.com"
+            android:fontFamily="serif-monospace"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#E74040"
+            android:layout_marginTop="51dp"
+            android:layout_centerHorizontal="true">
+
+
+
+    </TextView>
+</RelativeLayout>
